@@ -34,7 +34,7 @@ const HeroSection = () => {
           {/* Badge */}
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/10 backdrop-blur-sm border border-white/20 text-white/90 text-sm mb-8 animate-fade-in-up">
             <span className="w-2 h-2 bg-secondary rounded-full animate-pulse" />
-            Welcome to the Future of Learning
+            Welcome to RIT'S E LIBRARY
           </div>
 
           {/* Heading */}
@@ -46,7 +46,7 @@ const HeroSection = () => {
           {/* Subheading */}
           <p className="text-lg sm:text-xl text-white/80 max-w-2xl mx-auto mb-10 animate-fade-in-up animation-delay-200">
             Access thousands of academic books, journals, and research papers. 
-            Your gateway to academic excellence starts here.
+            Your gateway to academic excellence starts here with RIT
           </p>
 
           {/* Search Bar */}
