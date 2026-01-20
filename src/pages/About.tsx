@@ -27,7 +27,7 @@ const About = () => {
     {
       name: "G.ARAVIND",
       role: "DEVELOPER",
-      image: "https://drive.google.com/file/d/1d1Pj3BTVvN868Rptpw1LoaLcZC_Y2kSF/view?usp=drivesdk",
+      image: "https://postimg.cc/mhbjdtxd",
     },
     {
       name: "BHAGATH KRISHNAN U S",
