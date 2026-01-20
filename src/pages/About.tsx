@@ -27,7 +27,7 @@ const About = () => {
     {
       name: "G.ARAVIND",
       role: "DEVELOPER",
-      image: "https://ibb.co/7xb1Qt9y",
+      image: "elibrarytest/p1.jpeg",
     },
     {
       name: "BHAGATH KRISHNAN U S",
