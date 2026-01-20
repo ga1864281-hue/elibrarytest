@@ -25,23 +25,23 @@ const About = () => {
 
   const team = [
     {
-      name: "Dr. Sarah Mitchell",
-      role: "Head Librarian",
+      name: "G.ARAVIND",
+      role: "DEVELOPER",
       image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&h=200&fit=crop",
     },
     {
-      name: "Prof. James Chen",
-      role: "Academic Director",
+      name: "BAGATH KRISHNAN U S",
+      role: "DEVELOPER",
       image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&h=200&fit=crop",
     },
     {
-      name: "Emily Rodriguez",
-      role: "Digital Resources Manager",
+      name: "SIRIN J DEVASSIA",
+      role: "RESOURCE DEALER",
       image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&h=200&fit=crop",
     },
     {
-      name: "Michael Thompson",
-      role: "Student Services Lead",
+      name: "NANDAKISHORE.G",
+      role: "DATA CONTROLLER",
       image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&h=200&fit=crop",
     },
   ];
