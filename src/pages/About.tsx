@@ -30,7 +30,7 @@ const About = () => {
       image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&h=200&fit=crop",
     },
     {
-      name: "BAGATH KRISHNAN U S",
+      name: "BHAGATH KRISHNAN U S",
       role: "DEVELOPER",
       image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&h=200&fit=crop",
     },
