@@ -27,7 +27,7 @@ const About = () => {
     {
       name: "G.ARAVIND",
       role: "DEVELOPER",
-      image: "https://postimg.cc/mhbjdtxd",
+      image: "https://ibb.co/7xb1Qt9y",
     },
     {
       name: "BHAGATH KRISHNAN U S",
@@ -96,12 +96,12 @@ const About = () => {
                   Our <span className="text-gradient">Mission</span>
                 </h2>
                 <p className="text-muted-foreground mb-4 leading-relaxed">
-                  EduLibrary was founded with a simple yet powerful vision: to democratize access 
+                  RIT E-LIBRARY was founded with a simple yet powerful vision: to democratize access 
                   to academic resources for students everywhere. We believe that quality education 
                   should not be limited by geographical or financial barriers.
                 </p>
                 <p className="text-muted-foreground mb-6 leading-relaxed">
-                  Today, we serve over 10,000 students from more than 100 partner institutions, 
+                  Today, we serve over 4000 students from more than 100 partner institutions, 
                   providing instant access to textbooks, research papers, journals, and e-learning 
                   materials across all major academic disciplines.
                 </p>
@@ -176,7 +176,7 @@ const About = () => {
                     <div>
                       <h4 className="font-semibold text-foreground">Address</h4>
                       <p className="text-sm text-muted-foreground">
-                        123 University Avenue, Academic City, AC 12345
+                        GOVERNMENT ENGINEERING COLLEGE RIT KOTTAYAM
                       </p>
                     </div>
                   </div>
@@ -184,14 +184,14 @@ const About = () => {
                     <Phone className="h-6 w-6 text-secondary shrink-0" />
                     <div>
                       <h4 className="font-semibold text-foreground">Phone</h4>
-                      <p className="text-sm text-muted-foreground">+1 (555) 123-4567</p>
+                      <p className="text-sm text-muted-foreground">9874565225</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-4 p-4 rounded-xl bg-muted/50">
                     <Mail className="h-6 w-6 text-secondary shrink-0" />
                     <div>
                       <h4 className="font-semibold text-foreground">Email</h4>
-                      <p className="text-sm text-muted-foreground">library@university.edu</p>
+                      <p className="text-sm text-muted-foreground">sirin@gmail.cum</p>
                     </div>
                   </div>
                 </div>
